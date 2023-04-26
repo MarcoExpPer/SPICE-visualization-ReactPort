@@ -19,7 +19,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "Beliefs.beliefR",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (Beliefs.beliefR):",
                         "data": {
@@ -30,7 +31,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "emotion.Galillee_Rebellion",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (emotion.Galillee_Rebellion):",
                         "data": {
@@ -85,7 +87,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "Beliefs.beliefR",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (Beliefs.beliefR):",
                         "data": {
@@ -96,7 +99,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "emotion.Galillee_Rebellion",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (emotion.Galillee_Rebellion):",
                         "data": {
@@ -152,7 +156,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "Beliefs.beliefR",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (Beliefs.beliefR):",
                         "data": {
@@ -163,7 +168,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "emotion.Galillee_Rebellion",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (emotion.Galillee_Rebellion):",
                         "data": {
@@ -217,7 +223,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "Beliefs.beliefR",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (Beliefs.beliefR):",
                         "data": {
@@ -227,7 +234,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "emotion.Galillee_Rebellion",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (emotion.Galillee_Rebellion):",
                         "data": {
@@ -280,7 +288,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "Beliefs.beliefR",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (Beliefs.beliefR):",
                         "data": {
@@ -290,7 +299,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "emotion.Galillee_Rebellion",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (emotion.Galillee_Rebellion):",
                         "data": {
@@ -356,7 +366,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "Beliefs.beliefR",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (Beliefs.beliefR):",
                         "data": {
@@ -366,7 +377,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "emotion.Galillee_Rebellion",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (emotion.Galillee_Rebellion):",
                         "data": {
@@ -424,7 +436,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "Beliefs.beliefR",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (Beliefs.beliefR):",
                         "data": {
@@ -434,7 +447,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "emotion.Galillee_Rebellion",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (emotion.Galillee_Rebellion):",
                         "data": {
@@ -488,7 +502,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "Beliefs.beliefR",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (Beliefs.beliefR):",
                         "data": {
@@ -498,7 +513,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "emotion.Galillee_Rebellion",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (emotion.Galillee_Rebellion):",
                         "data": {
@@ -559,7 +575,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "Beliefs.beliefR",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (Beliefs.beliefR):",
                         "data": {
@@ -569,7 +586,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "emotion.Galillee_Rebellion",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (emotion.Galillee_Rebellion):",
                         "data": {
@@ -625,7 +643,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "Beliefs.beliefR",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (Beliefs.beliefR):",
                         "data": {
@@ -635,7 +654,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "emotion.Galillee_Rebellion",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (emotion.Galillee_Rebellion):",
                         "data": {
@@ -690,7 +710,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "Beliefs.beliefR",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (Beliefs.beliefR):",
                         "data": {
@@ -700,7 +721,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "emotion.Galillee_Rebellion",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (emotion.Galillee_Rebellion):",
                         "data": {
@@ -753,7 +775,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "Beliefs.beliefR",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (Beliefs.beliefR):",
                         "data": {
@@ -763,7 +786,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "emotion.Galillee_Rebellion",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (emotion.Galillee_Rebellion):",
                         "data": {
@@ -816,7 +840,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "Beliefs.beliefR",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (Beliefs.beliefR):",
                         "data": {
@@ -826,7 +851,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "emotion.Galillee_Rebellion",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (emotion.Galillee_Rebellion):",
                         "data": {

@@ -19,7 +19,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -30,20 +31,30 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "iconclassArrayIDs",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (iconclassArrayIDs):",
-                        "data": {
-                            "landscapes [25H] - Artworks: 2. This identifier is the common parent of the following labels: low hill country (35323) [25H114]; plain - HH - ideal landscapes (39347) [25HH16]": [
-                                "39347",
-                                "35323"
-                            ],
-                            "agriculture, cattle-breeding, horticulture, flowerculture, etc. [47I] - Artworks: 2. This identifier is the common parent of the following labels: goat (39347) [47I214]; vineyard (35323) [47I421]": [
-                                "39347",
-                                "35323"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": "landscapes [25H]",
+                                "artworks": "2",
+                                "label": "landscapes [25H] - Artworks: 2. This identifier is the common parent of the following labels: low hill country (35323) [25H114]; plain - HH - ideal landscapes (39347) [25HH16]",
+                                "data": [
+                                    "39347",
+                                    "35323"
+                                ]
+                            },
+                            {
+                                "key": "agriculture, cattle-breeding, horticulture, flowerculture, etc. [47I]",
+                                "artworks": "2",
+                                "label": "agriculture, cattle-breeding, horticulture, flowerculture, etc. [47I] - Artworks: 2. This identifier is the common parent of the following labels: goat (39347) [47I214]; vineyard (35323) [47I421]",
+                                "data": [
+                                    "39347",
+                                    "35323"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
@@ -98,7 +109,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -112,45 +124,70 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "iconclassArrayIDs",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (iconclassArrayIDs):",
-                        "data": {
-                            "housing [41A] - Artworks: 6. This identifier is the common parent of the following labels: country-house (35433) [41A161]; curtains (35330, 35323) [41A421]; rural housing, e.g. country-house, villa, cottage (35362) [41A16]; communal rooms (35308) [41A22]; chair (35330) [41A721]; cottage (35362) [41A163]; interior of the house (35222) [41A2]": [
-                                "35222",
-                                "35308",
-                                "35362",
-                                "35433",
-                                "35330",
-                                "35323"
-                            ],
-                            "landscapes [25H] - Artworks: 4. This identifier is the common parent of the following labels: low hill country (35330, 35323) [25H114]; plain - HH - ideal landscapes (35445, 39347) [25HH16]; river (35445) [25H213]": [
-                                "35445",
-                                "35330",
-                                "39347",
-                                "35323"
-                            ],
-                            "anatomy (non-medical) [31A2] - Artworks: 5. This identifier is the common parent of the following labels: standing figure (35445, 39427) [31A231]; head in normal upright position (35374) [31A241]; blood (35222) [31A22611]; sitting figure (35323) [31A235]": [
-                                "35222",
-                                "35374",
-                                "35445",
-                                "39427",
-                                "35323"
-                            ],
-                            "the ages of man [31D1] - Artworks: 4. This identifier is the common parent of the following labels: boy (child between toddler and youth) (35222) [31D11221]; adult man (35445, 39427) [31D14]; adolescent, young woman, maiden (35374) [31D13]": [
-                                "35222",
-                                "35445",
-                                "39427",
-                                "35374"
-                            ],
-                            "agriculture, cattle-breeding, horticulture, flowerculture, etc. [47I] - Artworks: 4. This identifier is the common parent of the following labels: goat (39347) [47I214]; vineyard (35330, 35323) [47I421]; sheep (35433) [47I213]": [
-                                "35330",
-                                "35433",
-                                "39347",
-                                "35323"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": "housing [41A]",
+                                "artworks": "6",
+                                "label": "housing [41A] - Artworks: 6. This identifier is the common parent of the following labels: country-house (35433) [41A161]; curtains (35330, 35323) [41A421]; rural housing, e.g. country-house, villa, cottage (35362) [41A16]; communal rooms (35308) [41A22]; chair (35330) [41A721]; cottage (35362) [41A163]; interior of the house (35222) [41A2]",
+                                "data": [
+                                    "35222",
+                                    "35308",
+                                    "35362",
+                                    "35433",
+                                    "35330",
+                                    "35323"
+                                ]
+                            },
+                            {
+                                "key": "landscapes [25H]",
+                                "artworks": "4",
+                                "label": "landscapes [25H] - Artworks: 4. This identifier is the common parent of the following labels: low hill country (35330, 35323) [25H114]; plain - HH - ideal landscapes (35445, 39347) [25HH16]; river (35445) [25H213]",
+                                "data": [
+                                    "35445",
+                                    "35330",
+                                    "39347",
+                                    "35323"
+                                ]
+                            },
+                            {
+                                "key": "anatomy (non-medical) [31A2]",
+                                "artworks": "5",
+                                "label": "anatomy (non-medical) [31A2] - Artworks: 5. This identifier is the common parent of the following labels: standing figure (35445, 39427) [31A231]; head in normal upright position (35374) [31A241]; blood (35222) [31A22611]; sitting figure (35323) [31A235]",
+                                "data": [
+                                    "35222",
+                                    "35374",
+                                    "35445",
+                                    "39427",
+                                    "35323"
+                                ]
+                            },
+                            {
+                                "key": "the ages of man [31D1]",
+                                "artworks": "4",
+                                "label": "the ages of man [31D1] - Artworks: 4. This identifier is the common parent of the following labels: boy (child between toddler and youth) (35222) [31D11221]; adult man (35445, 39427) [31D14]; adolescent, young woman, maiden (35374) [31D13]",
+                                "data": [
+                                    "35222",
+                                    "35445",
+                                    "39427",
+                                    "35374"
+                                ]
+                            },
+                            {
+                                "key": "agriculture, cattle-breeding, horticulture, flowerculture, etc. [47I]",
+                                "artworks": "4",
+                                "label": "agriculture, cattle-breeding, horticulture, flowerculture, etc. [47I] - Artworks: 4. This identifier is the common parent of the following labels: goat (39347) [47I214]; vineyard (35330, 35323) [47I421]; sheep (35433) [47I213]",
+                                "data": [
+                                    "35330",
+                                    "35433",
+                                    "39347",
+                                    "35323"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
@@ -232,7 +269,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -244,65 +282,90 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "iconclassArrayIDs",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (iconclassArrayIDs):",
-                        "data": {
-                            "the ages of man [31D1] - Artworks: 12. This identifier is the common parent of the following labels: adult man (35445, 39138) [31D14]; adult woman (35364, 35225, 35217) [31D15]; boy (child between toddler and youth) (35222) [31D11221]; adolescent, young woman, maiden (+ sitting) (35321) [31D13(+53)]; adolescent, young woman, maiden (35459, 35374) [31D13]; youth, young man, adolescent (35245) [31D12]; adult woman (+ sex and age (of human being)) (39182) [31D15(+8)]; adult man (+ three-quarter view) (35227) [31D14(+4)]": [
-                                "35222",
-                                "35364",
-                                "35225",
-                                "35459",
-                                "35374",
-                                "35227",
-                                "35445",
-                                "39138",
-                                "35245",
-                                "35321",
-                                "39182",
-                                "35217"
-                            ],
-                            "interior of the house [41A2] - Artworks: 5. This identifier is the common parent of the following labels: interior of the house (35222, 35217, 39182, 35321) [41A2]; drawing-room, 'salon' (39182) [41A222]; communal rooms (35308) [41A22]": [
-                                "35222",
-                                "35308",
-                                "35321",
-                                "39182",
-                                "35217"
-                            ],
-                            "anatomy (non-medical) [31A2] - Artworks: 8. This identifier is the common parent of the following labels: sitting on the ground (35227) [31A2351]; head in normal upright position (35225, 35374) [31A241]; blood (35222) [31A22611]; standing figure (35445) [31A231]; sitting figure (39182, 35323) [31A235]; leaning figure (35217) [31A232]": [
-                                "35222",
-                                "35225",
-                                "35374",
-                                "39182",
-                                "35445",
-                                "35227",
-                                "35217",
-                                "35323"
-                            ],
-                            "the (nude) human figure; 'Corpo humano' (Ripa) [31A] - Artworks: 9. This identifier is the common parent of the following labels: leaning figure (35217) [31A232]; disabilities, deformations and monstrosities; diseases (35230) [31A4]; 'motherly care', delousing - AA - female human figure (35364) [31AA571]; head in normal upright position (35225, 35374) [31A241]; blood (35222) [31A22611]; merman - AA - mermaid, siren (39138) [31AA4561]; reflection (in a mirror) (35323) [31A51111]; sitting figure (35323) [31A235]; standing figure (35445) [31A231]": [
-                                "35222",
-                                "35225",
-                                "35364",
-                                "35374",
-                                "35445",
-                                "39138",
-                                "35230",
-                                "35217",
-                                "35323"
-                            ],
-                            "housing [41A] - Artworks: 9. This identifier is the common parent of the following labels: interior of the house (39182, 35217, 35222, 35321) [41A2]; curtains (35323) [41A421]; country-house (35433) [41A161]; drawing-room, 'salon' (39182) [41A222]; rural housing, e.g. country-house, villa, cottage (35362) [41A16]; cottage (39347) [41A163]; communal rooms (35308) [41A22]; couch, sofa, settee (35217) [41A722]": [
-                                "35222",
-                                "35362",
-                                "35308",
-                                "35433",
-                                "35321",
-                                "39182",
-                                "35217",
-                                "39347",
-                                "35323"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": "the ages of man [31D1]",
+                                "artworks": "12",
+                                "label": "the ages of man [31D1] - Artworks: 12. This identifier is the common parent of the following labels: adult man (35445, 39138) [31D14]; adult woman (35364, 35225, 35217) [31D15]; boy (child between toddler and youth) (35222) [31D11221]; adolescent, young woman, maiden (+ sitting) (35321) [31D13(+53)]; adolescent, young woman, maiden (35459, 35374) [31D13]; youth, young man, adolescent (35245) [31D12]; adult woman (+ sex and age (of human being)) (39182) [31D15(+8)]; adult man (+ three-quarter view) (35227) [31D14(+4)]",
+                                "data": [
+                                    "35222",
+                                    "35364",
+                                    "35225",
+                                    "35459",
+                                    "35374",
+                                    "35227",
+                                    "35445",
+                                    "39138",
+                                    "35245",
+                                    "35321",
+                                    "39182",
+                                    "35217"
+                                ]
+                            },
+                            {
+                                "key": "interior of the house [41A2]",
+                                "artworks": "5",
+                                "label": "interior of the house [41A2] - Artworks: 5. This identifier is the common parent of the following labels: interior of the house (35222, 35217, 39182, 35321) [41A2]; drawing-room, 'salon' (39182) [41A222]; communal rooms (35308) [41A22]",
+                                "data": [
+                                    "35222",
+                                    "35308",
+                                    "35321",
+                                    "39182",
+                                    "35217"
+                                ]
+                            },
+                            {
+                                "key": "anatomy (non-medical) [31A2]",
+                                "artworks": "8",
+                                "label": "anatomy (non-medical) [31A2] - Artworks: 8. This identifier is the common parent of the following labels: sitting on the ground (35227) [31A2351]; head in normal upright position (35225, 35374) [31A241]; blood (35222) [31A22611]; standing figure (35445) [31A231]; sitting figure (39182, 35323) [31A235]; leaning figure (35217) [31A232]",
+                                "data": [
+                                    "35222",
+                                    "35225",
+                                    "35374",
+                                    "39182",
+                                    "35445",
+                                    "35227",
+                                    "35217",
+                                    "35323"
+                                ]
+                            },
+                            {
+                                "key": "the (nude) human figure; 'Corpo humano' (Ripa) [31A]",
+                                "artworks": "9",
+                                "label": "the (nude) human figure; 'Corpo humano' (Ripa) [31A] - Artworks: 9. This identifier is the common parent of the following labels: leaning figure (35217) [31A232]; disabilities, deformations and monstrosities; diseases (35230) [31A4]; 'motherly care', delousing - AA - female human figure (35364) [31AA571]; head in normal upright position (35225, 35374) [31A241]; blood (35222) [31A22611]; merman - AA - mermaid, siren (39138) [31AA4561]; reflection (in a mirror) (35323) [31A51111]; sitting figure (35323) [31A235]; standing figure (35445) [31A231]",
+                                "data": [
+                                    "35222",
+                                    "35225",
+                                    "35364",
+                                    "35374",
+                                    "35445",
+                                    "39138",
+                                    "35230",
+                                    "35217",
+                                    "35323"
+                                ]
+                            },
+                            {
+                                "key": "housing [41A]",
+                                "artworks": "9",
+                                "label": "housing [41A] - Artworks: 9. This identifier is the common parent of the following labels: interior of the house (39182, 35217, 35222, 35321) [41A2]; curtains (35323) [41A421]; country-house (35433) [41A161]; drawing-room, 'salon' (39182) [41A222]; rural housing, e.g. country-house, villa, cottage (35362) [41A16]; cottage (39347) [41A163]; communal rooms (35308) [41A22]; couch, sofa, settee (35217) [41A722]",
+                                "data": [
+                                    "35222",
+                                    "35362",
+                                    "35308",
+                                    "35433",
+                                    "35321",
+                                    "39182",
+                                    "35217",
+                                    "39347",
+                                    "35323"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
@@ -390,7 +453,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -401,20 +465,30 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "iconclassArrayIDs",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (iconclassArrayIDs):",
-                        "data": {
-                            "colours, pigments, and paints: blue [22C4(BLUE)] - Artworks: 2": [
-                                "35249",
-                                "35499"
-                            ],
-                            "colours, pigments, and paints [22C4] - Artworks: 2. This identifier is the common parent of the following labels: colours, pigments, and paints: blue (35499) [22C4(BLUE)]; colours, pigments, and paints (BOWN) (35249) [22C4(BOWN)]": [
-                                "35249",
-                                "35499"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": "colours, pigments, and paints: blue [22C4(BLUE)]",
+                                "artworks": "2",
+                                "label": "colours, pigments, and paints: blue [22C4(BLUE)] - Artworks: 2",
+                                "data": [
+                                    "35249",
+                                    "35499"
+                                ]
+                            },
+                            {
+                                "key": "colours, pigments, and paints [22C4]",
+                                "artworks": "2",
+                                "label": "colours, pigments, and paints [22C4] - Artworks: 2. This identifier is the common parent of the following labels: colours, pigments, and paints: blue (35499) [22C4(BLUE)]; colours, pigments, and paints (BOWN) (35249) [22C4(BOWN)]",
+                                "data": [
+                                    "35249",
+                                    "35499"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
@@ -469,7 +543,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -480,40 +555,65 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "iconclassArrayIDs",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (iconclassArrayIDs):",
-                        "data": {
-                            "landscapes [25H] - Artworks: 6. This identifier is the common parent of the following labels: deciduous forest (35456, 39648) [25H151]; river (35445) [25H213]; sea (39138) [25H2322]; sea - HH - ideal landscapes (35229) [25HH2322]; (high) hill - HH - ideal landscapes (35456, 35459) [25HH113]; plain - HH - ideal landscapes (35445) [25HH16]": [
-                                "35456",
-                                "35229",
-                                "39648",
-                                "35459",
-                                "35445",
-                                "39138"
-                            ],
-                            "deciduous forest [25H151] - Artworks: 3": [
-                                "35456",
-                                "39648",
-                                "35459"
-                            ],
-                            "the ages of man [31D1] - Artworks: 4. This identifier is the common parent of the following labels: adolescent, young woman, maiden (35459) [31D13]; adult man (35445, 39138) [31D14]; adult woman (+ sex and age (of human being)) (39182) [31D15(+8)]": [
-                                "35445",
-                                "35459",
-                                "39138",
-                                "39182"
-                            ],
-                            "art [48] - Artworks: 3. This identifier is the common parent of the following labels: portrait, self-portrait of artist (35229) [48B3]; painting, drawing and the graphic arts (35456, 35459) [48C5]": [
-                                "35229",
-                                "35459",
-                                "35456"
-                            ],
-                            "laid table: table-ware, table-decoration, etc. [41C3] - Artworks: 2. This identifier is the common parent of the following labels: bowl (35321) [41C345]; banquet piece (39175) [41C382]; laid table as still life (39175) [41C38]": [
-                                "39175",
-                                "35321"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": "landscapes [25H]",
+                                "artworks": "6",
+                                "label": "landscapes [25H] - Artworks: 6. This identifier is the common parent of the following labels: deciduous forest (35456, 39648) [25H151]; river (35445) [25H213]; sea (39138) [25H2322]; sea - HH - ideal landscapes (35229) [25HH2322]; (high) hill - HH - ideal landscapes (35456, 35459) [25HH113]; plain - HH - ideal landscapes (35445) [25HH16]",
+                                "data": [
+                                    "35456",
+                                    "35229",
+                                    "39648",
+                                    "35459",
+                                    "35445",
+                                    "39138"
+                                ]
+                            },
+                            {
+                                "key": "deciduous forest [25H151]",
+                                "artworks": "3",
+                                "label": "deciduous forest [25H151] - Artworks: 3",
+                                "data": [
+                                    "35456",
+                                    "39648",
+                                    "35459"
+                                ]
+                            },
+                            {
+                                "key": "the ages of man [31D1]",
+                                "artworks": "4",
+                                "label": "the ages of man [31D1] - Artworks: 4. This identifier is the common parent of the following labels: adolescent, young woman, maiden (35459) [31D13]; adult man (35445, 39138) [31D14]; adult woman (+ sex and age (of human being)) (39182) [31D15(+8)]",
+                                "data": [
+                                    "35445",
+                                    "35459",
+                                    "39138",
+                                    "39182"
+                                ]
+                            },
+                            {
+                                "key": "art [48]",
+                                "artworks": "3",
+                                "label": "art [48] - Artworks: 3. This identifier is the common parent of the following labels: portrait, self-portrait of artist (35229) [48B3]; painting, drawing and the graphic arts (35456, 35459) [48C5]",
+                                "data": [
+                                    "35229",
+                                    "35459",
+                                    "35456"
+                                ]
+                            },
+                            {
+                                "key": "laid table: table-ware, table-decoration, etc. [41C3]",
+                                "artworks": "2",
+                                "label": "laid table: table-ware, table-decoration, etc. [41C3] - Artworks: 2. This identifier is the common parent of the following labels: bowl (35321) [41C345]; banquet piece (39175) [41C382]; laid table as still life (39175) [41C38]",
+                                "data": [
+                                    "39175",
+                                    "35321"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
@@ -579,7 +679,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -589,33 +690,58 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "iconclassArrayIDs",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (iconclassArrayIDs):",
-                        "data": {
-                            "the ages of man [31D1] - Artworks: 3. This identifier is the common parent of the following labels: adult man (35412, 35224) [31D14]; adult woman (35364) [31D15]": [
-                                "35364",
-                                "35412",
-                                "35224"
-                            ],
-                            "adult woman [31D15] - Artworks: 2": [
-                                "35364",
-                                "35224"
-                            ],
-                            "the (nude) human figure; 'Corpo humano' (Ripa) [31A] - Artworks: 2. This identifier is the common parent of the following labels: urination (35412) [31A61]; 'motherly care', delousing - AA - female human figure (35364) [31AA571]": [
-                                "35364",
-                                "35412"
-                            ],
-                            "horse [46C13141] - Artworks: 2": [
-                                "35412",
-                                "39347"
-                            ],
-                            "Human Being, Man in General [3] - Artworks: 2. This identifier is the common parent of the following labels: adult man (35412) [31D14]; arm in arm (lovers) (39347) [33C231]": [
-                                "35412",
-                                "39347"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": "the ages of man [31D1]",
+                                "artworks": "3",
+                                "label": "the ages of man [31D1] - Artworks: 3. This identifier is the common parent of the following labels: adult man (35412, 35224) [31D14]; adult woman (35364) [31D15]",
+                                "data": [
+                                    "35364",
+                                    "35412",
+                                    "35224"
+                                ]
+                            },
+                            {
+                                "key": "adult woman [31D15]",
+                                "artworks": "2",
+                                "label": "adult woman [31D15] - Artworks: 2",
+                                "data": [
+                                    "35364",
+                                    "35224"
+                                ]
+                            },
+                            {
+                                "key": "the (nude) human figure; 'Corpo humano' (Ripa) [31A]",
+                                "artworks": "2",
+                                "label": "the (nude) human figure; 'Corpo humano' (Ripa) [31A] - Artworks: 2. This identifier is the common parent of the following labels: urination (35412) [31A61]; 'motherly care', delousing - AA - female human figure (35364) [31AA571]",
+                                "data": [
+                                    "35364",
+                                    "35412"
+                                ]
+                            },
+                            {
+                                "key": "horse [46C13141]",
+                                "artworks": "2",
+                                "label": "horse [46C13141] - Artworks: 2",
+                                "data": [
+                                    "35412",
+                                    "39347"
+                                ]
+                            },
+                            {
+                                "key": "Human Being, Man in General [3]",
+                                "artworks": "2",
+                                "label": "Human Being, Man in General [3] - Artworks: 2. This identifier is the common parent of the following labels: adult man (35412) [31D14]; arm in arm (lovers) (39347) [33C231]",
+                                "data": [
+                                    "35412",
+                                    "39347"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
@@ -687,7 +813,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -697,18 +824,28 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "iconclassArrayIDs",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (iconclassArrayIDs):",
-                        "data": {
-                            "planimetry, geometry [49D3] - Artworks: 1": [
-                                "39416"
-                            ],
-                            "regular quadrilateral [49D342] - Artworks: 1": [
-                                "39416"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": "planimetry, geometry [49D3]",
+                                "artworks": "1",
+                                "label": "planimetry, geometry [49D3] - Artworks: 1",
+                                "data": [
+                                    "39416"
+                                ]
+                            },
+                            {
+                                "key": "regular quadrilateral [49D342]",
+                                "artworks": "1",
+                                "label": "regular quadrilateral [49D342] - Artworks: 1",
+                                "data": [
+                                    "39416"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
@@ -770,7 +907,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -780,18 +918,28 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "iconclassArrayIDs",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (iconclassArrayIDs):",
-                        "data": {
-                            "celebration meal, feast, banquet [41C5] - Artworks: 1": [
-                                "39175"
-                            ],
-                            "banquet piece [41C382] - Artworks: 1": [
-                                "39175"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": "celebration meal, feast, banquet [41C5]",
+                                "artworks": "1",
+                                "label": "celebration meal, feast, banquet [41C5] - Artworks: 1",
+                                "data": [
+                                    "39175"
+                                ]
+                            },
+                            {
+                                "key": "banquet piece [41C382]",
+                                "artworks": "1",
+                                "label": "banquet piece [41C382] - Artworks: 1",
+                                "data": [
+                                    "39175"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },

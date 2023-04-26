@@ -19,34 +19,55 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "Materials",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (Materials):",
-                        "data": {
-                            " [wood] - Artworks: 3. This identifier is the common parent of the following labels:  (35323) [plywood];  (35364, 35412) [wood]": [
-                                "35364",
-                                "35412",
-                                "35323"
-                            ],
-                            " [canvas] - Artworks: 3": [
-                                "35445",
-                                "35362",
-                                "39352"
-                            ],
-                            " [paper] - Artworks: 2": [
-                                "35362",
-                                "39352"
-                            ],
-                            " [plywood] - Artworks: 1": [
-                                "35323"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [wood]",
+                                "artworks": "3",
+                                "label": " [wood] - Artworks: 3. This identifier is the common parent of the following labels:  (35323) [plywood];  (35364, 35412) [wood]",
+                                "data": [
+                                    "35364",
+                                    "35412",
+                                    "35323"
+                                ]
+                            },
+                            {
+                                "key": " [canvas]",
+                                "artworks": "3",
+                                "label": " [canvas] - Artworks: 3",
+                                "data": [
+                                    "35445",
+                                    "35362",
+                                    "39352"
+                                ]
+                            },
+                            {
+                                "key": " [paper]",
+                                "artworks": "2",
+                                "label": " [paper] - Artworks: 2",
+                                "data": [
+                                    "35362",
+                                    "39352"
+                                ]
+                            },
+                            {
+                                "key": " [plywood]",
+                                "artworks": "1",
+                                "label": " [plywood] - Artworks: 1",
+                                "data": [
+                                    "35323"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -128,53 +149,79 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "Materials",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (Materials):",
-                        "data": {
-                            " [canvas] - Artworks: 15": [
-                                "35308",
-                                "35225",
-                                "35362",
-                                "35227",
-                                "35445",
-                                "35217",
-                                "35433",
-                                "35288",
-                                "35360",
-                                "39426",
-                                "35230",
-                                "39182",
-                                "35330",
-                                "35499",
-                                "39347"
-                            ],
-                            " [paper] - Artworks: 6": [
-                                "35229",
-                                "35362",
-                                "39648",
-                                "35381",
-                                "35330",
-                                "39347"
-                            ],
-                            " [wax] - Artworks: 1": [
-                                "39200"
-                            ],
-                            " [wood] - Artworks: 2. This identifier is the common parent of the following labels:  (35381) [plywood];  (35364) [wood]": [
-                                "35381",
-                                "35364"
-                            ],
-                            " [organic] - Artworks: 2. This identifier is the common parent of the following labels:  (35381) [paper];  (35364) [wood]": [
-                                "35381",
-                                "35364"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [canvas]",
+                                "artworks": "15",
+                                "label": " [canvas] - Artworks: 15",
+                                "data": [
+                                    "35308",
+                                    "35225",
+                                    "35362",
+                                    "35227",
+                                    "35445",
+                                    "35217",
+                                    "35433",
+                                    "35288",
+                                    "35360",
+                                    "39426",
+                                    "35230",
+                                    "39182",
+                                    "35330",
+                                    "35499",
+                                    "39347"
+                                ]
+                            },
+                            {
+                                "key": " [paper]",
+                                "artworks": "6",
+                                "label": " [paper] - Artworks: 6",
+                                "data": [
+                                    "35229",
+                                    "35362",
+                                    "39648",
+                                    "35381",
+                                    "35330",
+                                    "39347"
+                                ]
+                            },
+                            {
+                                "key": " [wax]",
+                                "artworks": "1",
+                                "label": " [wax] - Artworks: 1",
+                                "data": [
+                                    "39200"
+                                ]
+                            },
+                            {
+                                "key": " [wood]",
+                                "artworks": "2",
+                                "label": " [wood] - Artworks: 2. This identifier is the common parent of the following labels:  (35381) [plywood];  (35364) [wood]",
+                                "data": [
+                                    "35381",
+                                    "35364"
+                                ]
+                            },
+                            {
+                                "key": " [organic]",
+                                "artworks": "2",
+                                "label": " [organic] - Artworks: 2. This identifier is the common parent of the following labels:  (35381) [paper];  (35364) [wood]",
+                                "data": [
+                                    "35381",
+                                    "35364"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -264,20 +311,26 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "Materials",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (Materials):",
-                        "data": {
-                            " [canvas] - Artworks: 1": [
-                                "39175"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [canvas]",
+                                "artworks": "1",
+                                "label": " [canvas] - Artworks: 1",
+                                "data": [
+                                    "39175"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -334,23 +387,34 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "Materials",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (Materials):",
-                        "data": {
-                            " [resin] - Artworks: 1": [
-                                "39416"
-                            ],
-                            " [plexiglass] - Artworks: 1": [
-                                "39416"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [resin]",
+                                "artworks": "1",
+                                "label": " [resin] - Artworks: 1",
+                                "data": [
+                                    "39416"
+                                ]
+                            },
+                            {
+                                "key": " [plexiglass]",
+                                "artworks": "1",
+                                "label": " [plexiglass] - Artworks: 1",
+                                "data": [
+                                    "39416"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -417,20 +481,26 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "Materials",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (Materials):",
-                        "data": {
-                            " [canvas] - Artworks: 1": [
-                                "35321"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [canvas]",
+                                "artworks": "1",
+                                "label": " [canvas] - Artworks: 1",
+                                "data": [
+                                    "35321"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -496,25 +566,36 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "Materials",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (Materials):",
-                        "data": {
-                            " [wood] - Artworks: 3. This identifier is the common parent of the following labels:  (35323) [plywood];  (35364, 35459) [wood]": [
-                                "35364",
-                                "35459",
-                                "35323"
-                            ],
-                            " [canvas] - Artworks: 1": [
-                                "35230"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [wood]",
+                                "artworks": "3",
+                                "label": " [wood] - Artworks: 3. This identifier is the common parent of the following labels:  (35323) [plywood];  (35364, 35459) [wood]",
+                                "data": [
+                                    "35364",
+                                    "35459",
+                                    "35323"
+                                ]
+                            },
+                            {
+                                "key": " [canvas]",
+                                "artworks": "1",
+                                "label": " [canvas] - Artworks: 1",
+                                "data": [
+                                    "35230"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -584,21 +665,27 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "Materials",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (Materials):",
-                        "data": {
-                            " [canvas] - Artworks: 2": [
-                                "35330",
-                                "35499"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [canvas]",
+                                "artworks": "2",
+                                "label": " [canvas] - Artworks: 2",
+                                "data": [
+                                    "35330",
+                                    "35499"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -655,29 +742,40 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "Materials",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (Materials):",
-                        "data": {
-                            " [canvas] - Artworks: 6": [
-                                "35222",
-                                "39352",
-                                "35230",
-                                "35310",
-                                "35224",
-                                "39347"
-                            ],
-                            " [paper] - Artworks: 2": [
-                                "39347",
-                                "39352"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [canvas]",
+                                "artworks": "6",
+                                "label": " [canvas] - Artworks: 6",
+                                "data": [
+                                    "35222",
+                                    "39352",
+                                    "35230",
+                                    "35310",
+                                    "35224",
+                                    "39347"
+                                ]
+                            },
+                            {
+                                "key": " [paper]",
+                                "artworks": "2",
+                                "label": " [paper] - Artworks: 2",
+                                "data": [
+                                    "39347",
+                                    "39352"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -755,22 +853,28 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "Materials",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (Materials):",
-                        "data": {
-                            " [canvas] - Artworks: 3": [
-                                "35445",
-                                "35360",
-                                "35230"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [canvas]",
+                                "artworks": "3",
+                                "label": " [canvas] - Artworks: 3",
+                                "data": [
+                                    "35445",
+                                    "35360",
+                                    "35230"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -836,22 +940,28 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "Materials",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (Materials):",
-                        "data": {
-                            " [paper] - Artworks: 3": [
-                                "35229",
-                                "35330",
-                                "39648"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [paper]",
+                                "artworks": "3",
+                                "label": " [paper] - Artworks: 3",
+                                "data": [
+                                    "35229",
+                                    "35330",
+                                    "39648"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -927,25 +1037,36 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "Materials",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (Materials):",
-                        "data": {
-                            " [paper] - Artworks: 2": [
-                                "35229",
-                                "35381"
-                            ],
-                            " [canvas] - Artworks: 2": [
-                                "39175",
-                                "39347"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [paper]",
+                                "artworks": "2",
+                                "label": " [paper] - Artworks: 2",
+                                "data": [
+                                    "35229",
+                                    "35381"
+                                ]
+                            },
+                            {
+                                "key": " [canvas]",
+                                "artworks": "2",
+                                "label": " [canvas] - Artworks: 2",
+                                "data": [
+                                    "39175",
+                                    "39347"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {

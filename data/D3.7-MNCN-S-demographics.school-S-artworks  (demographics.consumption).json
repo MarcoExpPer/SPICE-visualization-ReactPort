@@ -19,7 +19,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "demographics.consumption",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (demographics.consumption):",
                         "data": {
@@ -76,7 +77,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "demographics.consumption",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (demographics.consumption):",
                         "data": {
@@ -127,7 +129,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "demographics.consumption",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (demographics.consumption):",
                         "data": {

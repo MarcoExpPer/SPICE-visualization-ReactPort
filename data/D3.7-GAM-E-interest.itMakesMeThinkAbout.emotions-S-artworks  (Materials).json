@@ -19,70 +19,96 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "Materials",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (Materials):",
-                        "data": {
-                            " [canvas] - Artworks: 18": [
-                                "35308",
-                                "35225",
-                                "35362",
-                                "35227",
-                                "35445",
-                                "35217",
-                                "35433",
-                                "39138",
-                                "35288",
-                                "35360",
-                                "39426",
-                                "35230",
-                                "35310",
-                                "39182",
-                                "35330",
-                                "35499",
-                                "39175",
-                                "39347"
-                            ],
-                            " [paper] - Artworks: 6": [
-                                "35229",
-                                "35362",
-                                "39648",
-                                "35381",
-                                "35330",
-                                "39347"
-                            ],
-                            " [organic] - Artworks: 11. This identifier is the common parent of the following labels:  (35229, 35362, 39648, 35381, 35330, 39347) [paper];  (39200) [wax];  (35456, 35364, 35459, 39138) [wood]": [
-                                "35229",
-                                "35362",
-                                "35456",
-                                "39648",
-                                "35364",
-                                "35459",
-                                "35381",
-                                "39138",
-                                "39200",
-                                "35330",
-                                "39347"
-                            ],
-                            " [wood] - Artworks: 6. This identifier is the common parent of the following labels:  (35456, 35364, 35459, 39138) [wood];  (35381, 35323) [plywood]": [
-                                "35456",
-                                "35364",
-                                "35459",
-                                "35381",
-                                "39138",
-                                "35323"
-                            ],
-                            " [plywood] - Artworks: 2": [
-                                "35381",
-                                "35323"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [canvas]",
+                                "artworks": "18",
+                                "label": " [canvas] - Artworks: 18",
+                                "data": [
+                                    "35308",
+                                    "35225",
+                                    "35362",
+                                    "35227",
+                                    "35445",
+                                    "35217",
+                                    "35433",
+                                    "39138",
+                                    "35288",
+                                    "35360",
+                                    "39426",
+                                    "35230",
+                                    "35310",
+                                    "39182",
+                                    "35330",
+                                    "35499",
+                                    "39175",
+                                    "39347"
+                                ]
+                            },
+                            {
+                                "key": " [paper]",
+                                "artworks": "6",
+                                "label": " [paper] - Artworks: 6",
+                                "data": [
+                                    "35229",
+                                    "35362",
+                                    "39648",
+                                    "35381",
+                                    "35330",
+                                    "39347"
+                                ]
+                            },
+                            {
+                                "key": " [organic]",
+                                "artworks": "11",
+                                "label": " [organic] - Artworks: 11. This identifier is the common parent of the following labels:  (35229, 35362, 39648, 35381, 35330, 39347) [paper];  (39200) [wax];  (35456, 35364, 35459, 39138) [wood]",
+                                "data": [
+                                    "35229",
+                                    "35362",
+                                    "35456",
+                                    "39648",
+                                    "35364",
+                                    "35459",
+                                    "35381",
+                                    "39138",
+                                    "39200",
+                                    "35330",
+                                    "39347"
+                                ]
+                            },
+                            {
+                                "key": " [wood]",
+                                "artworks": "6",
+                                "label": " [wood] - Artworks: 6. This identifier is the common parent of the following labels:  (35456, 35364, 35459, 39138) [wood];  (35381, 35323) [plywood]",
+                                "data": [
+                                    "35456",
+                                    "35364",
+                                    "35459",
+                                    "35381",
+                                    "39138",
+                                    "35323"
+                                ]
+                            },
+                            {
+                                "key": " [plywood]",
+                                "artworks": "2",
+                                "label": " [plywood] - Artworks: 2",
+                                "data": [
+                                    "35381",
+                                    "35323"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -186,44 +212,65 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "Materials",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (Materials):",
-                        "data": {
-                            " [canvas] - Artworks: 8": [
-                                "35222",
-                                "39352",
-                                "35445",
-                                "35321",
-                                "35230",
-                                "35310",
-                                "35224",
-                                "39347"
-                            ],
-                            " [wood] - Artworks: 4. This identifier is the common parent of the following labels:  (35456, 35364, 35459) [wood];  (35323) [plywood]": [
-                                "35456",
-                                "35364",
-                                "35459",
-                                "35323"
-                            ],
-                            " [organic] - Artworks: 5. This identifier is the common parent of the following labels:  (39347, 39352) [paper];  (35456, 35364, 35459) [wood]": [
-                                "35456",
-                                "35364",
-                                "35459",
-                                "39352",
-                                "39347"
-                            ],
-                            " [paper] - Artworks: 2": [
-                                "39347",
-                                "39352"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [canvas]",
+                                "artworks": "8",
+                                "label": " [canvas] - Artworks: 8",
+                                "data": [
+                                    "35222",
+                                    "39352",
+                                    "35445",
+                                    "35321",
+                                    "35230",
+                                    "35310",
+                                    "35224",
+                                    "39347"
+                                ]
+                            },
+                            {
+                                "key": " [wood]",
+                                "artworks": "4",
+                                "label": " [wood] - Artworks: 4. This identifier is the common parent of the following labels:  (35456, 35364, 35459) [wood];  (35323) [plywood]",
+                                "data": [
+                                    "35456",
+                                    "35364",
+                                    "35459",
+                                    "35323"
+                                ]
+                            },
+                            {
+                                "key": " [organic]",
+                                "artworks": "5",
+                                "label": " [organic] - Artworks: 5. This identifier is the common parent of the following labels:  (39347, 39352) [paper];  (35456, 35364, 35459) [wood]",
+                                "data": [
+                                    "35456",
+                                    "35364",
+                                    "35459",
+                                    "39352",
+                                    "39347"
+                                ]
+                            },
+                            {
+                                "key": " [paper]",
+                                "artworks": "2",
+                                "label": " [paper] - Artworks: 2",
+                                "data": [
+                                    "39347",
+                                    "39352"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -291,31 +338,47 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "Materials",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (Materials):",
-                        "data": {
-                            " [canvas] - Artworks: 4": [
-                                "35445",
-                                "35362",
-                                "35227",
-                                "39352"
-                            ],
-                            " [paper] - Artworks: 2": [
-                                "35362",
-                                "39352"
-                            ],
-                            " [wood] - Artworks: 2. This identifier is the common parent of the following labels:  (35323) [plywood];  (35412) [wood]": [
-                                "35412",
-                                "35323"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [canvas]",
+                                "artworks": "4",
+                                "label": " [canvas] - Artworks: 4",
+                                "data": [
+                                    "35445",
+                                    "35362",
+                                    "35227",
+                                    "39352"
+                                ]
+                            },
+                            {
+                                "key": " [paper]",
+                                "artworks": "2",
+                                "label": " [paper] - Artworks: 2",
+                                "data": [
+                                    "35362",
+                                    "39352"
+                                ]
+                            },
+                            {
+                                "key": " [wood]",
+                                "artworks": "2",
+                                "label": " [wood] - Artworks: 2. This identifier is the common parent of the following labels:  (35323) [plywood];  (35412) [wood]",
+                                "data": [
+                                    "35412",
+                                    "35323"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -382,28 +445,39 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "Materials",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (Materials):",
-                        "data": {
-                            " [canvas] - Artworks: 4": [
-                                "39182",
-                                "35330",
-                                "39138",
-                                "39175"
-                            ],
-                            " [organic] - Artworks: 3. This identifier is the common parent of the following labels:  (35229, 35330) [paper];  (39138) [wood]": [
-                                "35229",
-                                "35330",
-                                "39138"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [canvas]",
+                                "artworks": "4",
+                                "label": " [canvas] - Artworks: 4",
+                                "data": [
+                                    "39182",
+                                    "35330",
+                                    "39138",
+                                    "39175"
+                                ]
+                            },
+                            {
+                                "key": " [organic]",
+                                "artworks": "3",
+                                "label": " [organic] - Artworks: 3. This identifier is the common parent of the following labels:  (35229, 35330) [paper];  (39138) [wood]",
+                                "data": [
+                                    "35229",
+                                    "35330",
+                                    "39138"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -463,31 +537,47 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "Materials",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (Materials):",
-                        "data": {
-                            " [wood] - Artworks: 3. This identifier is the common parent of the following labels:  (35381) [plywood];  (35364, 39138) [wood]": [
-                                "35381",
-                                "35364",
-                                "39138"
-                            ],
-                            " [canvas] - Artworks: 2": [
-                                "39138",
-                                "35230"
-                            ],
-                            " [organic] - Artworks: 3. This identifier is the common parent of the following labels:  (35381) [paper];  (35364, 39138) [wood]": [
-                                "35381",
-                                "35364",
-                                "39138"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [wood]",
+                                "artworks": "3",
+                                "label": " [wood] - Artworks: 3. This identifier is the common parent of the following labels:  (35381) [plywood];  (35364, 39138) [wood]",
+                                "data": [
+                                    "35381",
+                                    "35364",
+                                    "39138"
+                                ]
+                            },
+                            {
+                                "key": " [canvas]",
+                                "artworks": "2",
+                                "label": " [canvas] - Artworks: 2",
+                                "data": [
+                                    "39138",
+                                    "35230"
+                                ]
+                            },
+                            {
+                                "key": " [organic]",
+                                "artworks": "3",
+                                "label": " [organic] - Artworks: 3. This identifier is the common parent of the following labels:  (35381) [paper];  (35364, 39138) [wood]",
+                                "data": [
+                                    "35381",
+                                    "35364",
+                                    "39138"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -556,7 +646,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "Materials",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (Materials):",
                         "data": {}
@@ -564,7 +655,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
@@ -621,22 +713,28 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "Materials",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (Materials):",
-                        "data": {
-                            " [canvas] - Artworks: 3": [
-                                "35330",
-                                "35499",
-                                "39175"
-                            ]
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [canvas]",
+                                "artworks": "3",
+                                "label": " [canvas] - Artworks: 3",
+                                "data": [
+                                    "35330",
+                                    "35499",
+                                    "39175"
+                                ]
+                            }
+                        ]
                     },
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {

@@ -19,7 +19,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "demographics.food",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (demographics.food):",
                         "data": {
@@ -82,7 +83,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "demographics.food",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (demographics.food):",
                         "data": {
@@ -134,7 +136,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "demographics.food",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (demographics.food):",
                         "data": {
@@ -185,7 +188,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "demographics.food",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (demographics.food):",
                         "data": {

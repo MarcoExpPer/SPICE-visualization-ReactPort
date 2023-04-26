@@ -19,18 +19,24 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "id",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (id):",
-                        "data": {
-                            " [44165]": []
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [44165]",
+                                "artworks": "0",
+                                "label": " [44165]",
+                                "data": []
+                            }
+                        ]
                     },
-                    "visible": false
+                    "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.emotions):",
                         "data": {
@@ -103,18 +109,24 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "id",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (id):",
-                        "data": {
-                            " [44165]": []
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [44165]",
+                                "artworks": "0",
+                                "label": " [44165]",
+                                "data": []
+                            }
+                        ]
                     },
-                    "visible": false
+                    "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.emotions):",
                         "data": {

@@ -19,7 +19,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "demographics.water_electricity",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (demographics.water_electricity):",
                         "data": {
@@ -73,7 +74,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "demographics.water_electricity",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (demographics.water_electricity):",
                         "data": {
@@ -132,7 +134,8 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "demographics.water_electricity",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (demographics.water_electricity):",
                         "data": {

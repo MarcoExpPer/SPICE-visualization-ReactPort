@@ -19,18 +19,24 @@
                     "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_list",
+                    "explanation_key": "id",
                     "explanation_data": {
                         "label": "Community representative properties of the implicit attribute (id):",
-                        "data": {
-                            " [35459]": []
-                        },
-                        "accordionMode": true
+                        "data": [
+                            {
+                                "key": " [35459]",
+                                "artworks": "0",
+                                "label": " [35459]",
+                                "data": []
+                            }
+                        ]
                     },
-                    "visible": false
+                    "visible": true
                 },
                 {
-                    "explanation_type": "implicit_attributes",
+                    "explanation_type": "implicit_attributes_map",
+                    "explanation_key": "interest.itMakesMeThinkAbout.emotions",
                     "explanation_data": {
                         "label": "Percentage distribution of the implicit attribute (interest.itMakesMeThinkAbout.emotions):",
                         "data": {
