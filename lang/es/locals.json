@@ -41,7 +41,9 @@
     "savePerspectives": {
         "tittle": "Guardar perspectivas",
         "toggleLabel": "Mostrar/Ocultar todas",
-        "downloadBtn": "Descargar perspectivas"
+        "downloadBtn": "Descargar perspectivas",
+        "deleteBtn": "Borrar perspectivas",
+        "areUSure": "¿Quieres eliminar las perspectivas seleccionadas?"
     },
     "perspectiveBuider": {
         "devModeBtn": "Modo desarrollador",
@@ -82,7 +84,8 @@
         "interactionsName": "Interacciones",
         "noUserAttrb": "Todos los atributos del ciudadano son desconocidos",
         "relevantArtworks": "Obras relacionadas con la comunidad",
-        "medoidTittle": "Ciudadano representativo"
+        "medoidTittle": "Ciudadano representativo",
+        "unavailableExplanation": "explicación no disponible"
     },
     "loadingText": {
         "requestPerspective": "Cargando la perspectiva ",

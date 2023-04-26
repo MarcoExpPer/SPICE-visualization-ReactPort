@@ -41,7 +41,9 @@
     "savePerspectives": {
         "tittle": "Save Perspectives",
         "toggleLabel": "Toggle All",
-        "downloadBtn": "Download perspectives"
+        "downloadBtn": "Download perspectives",
+        "deleteBtn": "Delete perspectives",
+        "areUSure": "Are you sure you want to remove the selected perspectives?"
     },
     "perspectiveBuider": {
         "devModeBtn": "Dev mode",
@@ -82,7 +84,8 @@
         "interactionsName": "Interactions",
         "noUserAttrb": "All users' attributes are unknown",
         "relevantArtworks": "Relevant artworks to this community",
-        "medoidTittle": "Representative citizen"
+        "medoidTittle": "Representative citizen",
+        "unavailableExplanation": "explanation is not available"
     },
     "loadingText": {
         "requestPerspective": "Requesting perspective",
