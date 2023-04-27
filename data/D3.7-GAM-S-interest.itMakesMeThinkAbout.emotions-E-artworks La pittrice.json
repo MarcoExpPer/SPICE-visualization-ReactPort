@@ -32,7 +32,7 @@
                             }
                         ]
                     },
-                    "visible": true
+                    "visible": false
                 },
                 {
                     "explanation_type": "implicit_attributes_map",
