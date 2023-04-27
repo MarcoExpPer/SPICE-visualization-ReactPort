@@ -44,7 +44,7 @@
                             }
                         ]
                     },
-                    "visible": false
+                    "visible": true
                 },
                 {
                     "explanation_type": "explicit_attributes",
@@ -120,7 +120,7 @@
                             }
                         ]
                     },
-                    "visible": false
+                    "visible": true
                 },
                 {
                     "explanation_type": "explicit_attributes",
