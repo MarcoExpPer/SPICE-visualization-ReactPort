@@ -652,7 +652,8 @@
                         "label": "Community representative properties of the implicit attribute (Materials):",
                         "data": {}
                     },
-                    "visible": true
+                    "visible": true,
+					"unavailable": true
                 },
                 {
                     "explanation_type": "implicit_attributes_map",
