@@ -432,7 +432,13 @@ export const App = ({
 }
 
 
-function initPerspectivess(setLeftPerspective: React.Dispatch<React.SetStateAction<IPerspectiveData | undefined>>, setRightPerspective: React.Dispatch<React.SetStateAction<IPerspectiveData | undefined>>, newIds: PerspectiveId[], perspectiveId1: string | null, requestManager: RequestManager, perspectiveId2: string | null, setAllPerspectivesIds: React.Dispatch<React.SetStateAction<PerspectiveId[]>>) {
+function initPerspectivess(setLeftPerspective: React.Dispatch<React.SetStateAction<IPerspectiveData | undefined>>,
+  setRightPerspective: React.Dispatch<React.SetStateAction<IPerspectiveData | undefined>>,
+  newIds: PerspectiveId[],
+  perspectiveId1: string | null,
+  requestManager: RequestManager,
+  perspectiveId2: string | null,
+  setAllPerspectivesIds: React.Dispatch<React.SetStateAction<PerspectiveId[]>>) {
   setLeftPerspective(undefined);
   setRightPerspective(undefined);
 

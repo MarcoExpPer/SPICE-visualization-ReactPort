@@ -1,70 +1,70 @@
 [
   {
-    "id": "D3.7-DMH-S-interest.emotions-E-artworks Pastille",
+    "id": "1",
     "name": "D3.7-DMH-S-interest.emotions-E-artworks Pastille"
   },
   {
-    "id": "D3.7-DMH-S-interest.emotions-S-artworks  (Materials)",
+    "id": "2",
     "name": "D3.7-DMH-S-interest.emotions-S-artworks  (Materials)"
   },
   {
-    "id": "D3.7-DMH-S-interest.emotions-S-artworks  (Object group)",
+    "id": "3",
     "name": "D3.7-DMH-S-interest.emotions-S-artworks  (Object group)"
   },
   {
-    "id": "D3.7-DMH-S-interest.sentiment-E-artworks Fiskars scissors",
+    "id": "4",
     "name": "D3.7-DMH-S-interest.sentiment-E-artworks Fiskars scissors"
   },
   {
-    "id": "D3.7-GAM-E-interest.itMakesMeThinkAbout.emotions-S-artworks  (iconclassArrayIDs)",
+    "id": "5",
     "name": "D3.7-GAM-E-interest.itMakesMeThinkAbout.emotions-S-artworks  (iconclassArrayIDs)"
   },
   {
-    "id": "D3.7-GAM-E-interest.itMakesMeThinkAbout.emotions-S-artworks  (Materials)",
+    "id": "6",
     "name": "D3.7-GAM-E-interest.itMakesMeThinkAbout.emotions-S-artworks  (Materials)"
   },
   {
-    "id": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Anticoli sole a picco (Paesaggio di Anticoli)",
+    "id": "7",
     "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Anticoli sole a picco (Paesaggio di Anticoli)"
   },
   {
-    "id": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Daphne (Daphne a Pavarolo)",
+    "id": "8",
     "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Daphne (Daphne a Pavarolo)"
   },
   {
-    "id": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks La pittrice",
+    "id": "9",
     "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks La pittrice"
   },
   {
-    "id": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Le allieve",
+    "id": "10",
     "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-E-artworks Le allieve"
   },
   {
-    "id": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-S-artworks  (iconclassArrayIDs)",
+    "id": "11",
     "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-S-artworks  (iconclassArrayIDs)"
   },
   {
-    "id": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-S-artworks  (Materials)",
+    "id": "12",
     "name": "D3.7-GAM-S-interest.itMakesMeThinkAbout.emotions-S-artworks  (Materials)"
   },
   {
-    "id": "D3.7-HECHT-S-emotion.Galillee_Rebellion-S-artworks  (Beliefs.beliefR)",
+    "id": "13",
     "name": "D3.7-HECHT-S-emotion.Galillee_Rebellion-S-artworks  (Beliefs.beliefR)"
   },
   {
-    "id": "D3.7-HECHT-S-sentiment.Joseph_Flavius-S-artworks  (Beliefs.beliefJ)",
+    "id": "14",
     "name": "D3.7-HECHT-S-sentiment.Joseph_Flavius-S-artworks  (Beliefs.beliefJ)"
   },
   {
-    "id": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.consumption)",
+    "id": "15",
     "name": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.consumption)"
   },
   {
-    "id": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.food)",
+    "id": "16",
     "name": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.food)"
   },
   {
-    "id": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.water_electricity)",
+    "id": "17",
     "name": "D3.7-MNCN-S-demographics.school-S-artworks  (demographics.water_electricity)"
   }
 ]
